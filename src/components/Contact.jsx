@@ -123,11 +123,16 @@ const Contact = () => {
             />
           </div>
 
-          <div className="text-center">
+          <div className="text-center flex justify-center">
             <button
               type="submit"
-              className="bg-green-700 hover:bg-green-800 text-white font-semibold px-6 py-2 rounded-md transition-colors"
+              className="bg-green-400 hover:bg-green-300 text-white rounded-full px-8 py-2 w-fit border border-green-900 cursor-pointer flex items-center gap-2"
             >
+              <lord-icon
+                src="https://cdn.lordicon.com/vpbspaec.json"
+                colors="primary:#ffffff,secondary:#7166ee"
+                trigger="hover"
+              ></lord-icon>
               Send Message
             </button>
           </div>
