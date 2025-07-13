@@ -57,7 +57,7 @@ const About = () => {
         <div className="flex-shrink-0">
           {/* Placeholder for developer's avatar */}
           <div className="w-12 h-12 bg-blue-200 rounded-full flex items-center justify-center text-2xl font-bold text-blue-700">
-            W
+            <img src="./project1..webp" alt="img" className='rounded-full'/>
           </div>
         </div>
         <div>
@@ -70,7 +70,8 @@ const About = () => {
         </div>
       </div>
       <p className="text-green-700 mb-2">
-        This project was created as part of learning React from <span className="font-semibold">CodeWithHarry</span> Channel.
+        This project was created as part of learning React from{" "}
+        <span className="font-semibold">CodeWithHarry</span> Channel.
       </p>
       <div className="mt-6 text-center">
         <span className="inline-block bg-blue-100 text-blue-800 text-sm px-4 py-2 rounded-full font-medium">
