@@ -176,7 +176,7 @@ This project is licensed under the MIT License.
 
 For any questions or feedback, please reach out at:
 
-- GitHub: https://github.com/indrajeetsingh/Algonive_TaskBolt
+- GitHub: https://github.com/indrajeetsingh/taskBolt
 
 ---
 
