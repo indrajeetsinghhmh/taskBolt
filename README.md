@@ -21,7 +21,7 @@ Welcome to **TaskBolt**, a modern, user-friendly task management app built with 
 
 ## Demo
 
-*coming soon.*
+https://taskboltv1.netlify.app/
 
 ---
 
